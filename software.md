@@ -18,14 +18,19 @@ Here's some cool software I've found over the years that I've used for various r
 * [pyenv](https://github.com/pyenv/pyenv)
 
 ---
+# Devops
+## CI/CD
+* [Jenkins](https://jenkins.io/)
 
-# CI/CD Stuff
 ## Containerization
 * [Docker](https://www.docker.com/)
 * [Docker Compose](https://docs.docker.com/compose/)
 
 ## Code Repos
 * [GitHub](https://github.com/)
+
+## Code Analysis
+* [SonarQube](https://www.sonarqube.org/)
 
 ---
 
