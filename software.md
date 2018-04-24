@@ -22,6 +22,7 @@ Here's some cool software I've found over the years that I've used for various r
 # CI/CD Stuff
 ## Containerization
 * [Docker](https://www.docker.com/)
+* [Docker Compose](https://docs.docker.com/compose/)
 
 ## Code Repos
 * [GitHub](https://github.com/)
