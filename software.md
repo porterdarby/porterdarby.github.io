@@ -22,6 +22,7 @@ Here's some cool software I've found over the years that I've used for various r
 # Software
 ## MacOSX
 * [Homebrew](https://brew.sh/)
+* [SpotMenu](https://github.com/kmikiy/SpotMenu)
 
 ---
 # Devops
