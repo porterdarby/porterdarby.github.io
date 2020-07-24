@@ -11,6 +11,10 @@ Here's some cool software I've found over the years that I've used for various r
 * [MVNRepository](https://mvnrepository.com/)
 * [GrepCode](http://grepcode.com)
 
+## Scala
+
+* [Akka](https://akka.io/)
+
 ## ECMAScript/Javascript
 * [TypeScript](https://www.typescriptlang.org/): Because I like statically typed languages.
 
