@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Thoughts on Testing
-tags: testing
+tags: testing, python, sqlalchemy
 ---
 
 One of the problems that I run into a lot when working on projects is the ability to actually test the code. I might be beating a dead horse, but testing is one of those tasks that all too often gets dropped by the wayside, and honestly, I find it fun at times.
