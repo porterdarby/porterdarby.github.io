@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Thoughts on Testing
+title: Pytest/SqlAlchemy Test Fixtures (And testing thoughts)
 tags: testing, python, sqlalchemy
 ---
 
