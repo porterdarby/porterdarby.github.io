@@ -9,3 +9,6 @@ title: Future Topics
   * Common patterns
   * Antipatterns
   * Best practices (multipart?)
+* Docker Compose
+  * What is it?
+  * 

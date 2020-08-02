@@ -47,3 +47,4 @@ Here's some cool software I've found over the years that I've used for various r
 
 # Magic
 * [Scryfall](https://www.scryfall.com/)
+* [Frank Karsten's "How Many Colored Mana Sources Do You Need to Consistently Cast Your Spells? A Guilds of Ravnica Update"](https://www.channelfireball.com/all-strategy/articles/how-many-colored-mana-sources-do-you-need-to-consistently-cast-your-spells-a-guilds-of-ravnica-update/)
