@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Docker and git: using `describe` with annotated tags
-tags: Docker, git, CI/CD
+title: Docker and git
+tags: Docker, git, CICD
 ---
 
 It's really quite impressive what you can learn by digging through some documentation. A while back I found out about [`git describe`](https://git-scm.com/docs/git-describe). This command gives "an object a human readable named based on an available ref." What does that mean? It basically means you can run `git describe` on a commit and it'll give you information back about the commit. For example:
