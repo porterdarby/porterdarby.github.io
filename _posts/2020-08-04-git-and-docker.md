@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CI/CD, Docker, and git: `describe` and tags
+title: CI/CD, Docker, and git: describe and tags
 tags: Docker, git, CI/CD
 ---
 
