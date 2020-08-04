@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Docker and git: describe and tags
+layout: post
+title: Docker and git: using `describe` with annotated tags
 tags: Docker, git, CI/CD
 ---
 
