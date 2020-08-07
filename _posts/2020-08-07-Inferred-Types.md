@@ -18,7 +18,7 @@ The interesting thing I found while doing this was how much inferred types are u
 val topCandidate = scores.maxBy(_._1)
 ```
 
-Can you see the problem? The attempt here is to get the candidate with the most votes after a "cycle" of the runoff. This code compiles, this code works does what it says -- it goes ahead and gets the top candidate pair based on the first pair element's value. That's not a problem, right? Well, the first value in the pair is the candidate's name -- a String. I didn't realize it at first, but I was wondering why the process almostalways needed to go to the 3 reduction from 2 to 1 candidates. I realized that I had mad an error -- I wasn't sure if I was finding the pair based on the maximum value of the ballot count, I was getting the max value based on the name. So I made this change:
+Can you see the problem? The attempt here is to get the candidate with the most votes after a "cycle" of the runoff. This code compiles, this code works does what it says -- it goes ahead and gets the top candidate pair based on the first pair element's value. That's not a problem, right? Well, the first value in the pair is the candidate's name -- a String. I didn't realize it at first, but I was wondering why the process almost always needed to go through all 4 calculations to figure out which candidate had 50%+ of the vote. I realized that I had made an error -- I wasn't sure if I was finding the pair based on the maximum value of the ballot count, I was getting the max value based on the name. So I made this change:
 
 ```scala
 val topCandidate = scores.maxBy(_._2)
