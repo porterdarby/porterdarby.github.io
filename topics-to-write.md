@@ -11,4 +11,4 @@ title: Future Topics
   * Best practices (multipart?)
 * Docker Compose
   * What is it?
-  * 
+* Multi-repo project vs. mono-repo project

@@ -14,6 +14,7 @@ Here's some cool software I've found over the years that I've used for various r
 ## Scala
 
 * [Akka](https://akka.io/)
+* [Rock the JVM](https://www.youtube.com/c/RocktheJVM/videos) -- a very good series of videos on Scala
 
 ## ECMAScript/Javascript
 * [TypeScript](https://www.typescriptlang.org/): Because I like statically typed languages.
