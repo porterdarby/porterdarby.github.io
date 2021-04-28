@@ -83,7 +83,7 @@ One problem with this condition is that you need to make sure your required serv
 
 Alternatively, if the dependant service has `restart: always` or `restart: on-failure` set and the dependant application exits or fails when the requred service is not in a good state, nothing of value has been lost. The `restart` configurations will restart the dependant service (based on the configuration), allowing the service to effectively wait until all of it's requirements are met.
 
-# Usings `service_completed_successfully`
+# Using `service_completed_successfully`
 ```
 # docker-compose.yml
 version: "3"
