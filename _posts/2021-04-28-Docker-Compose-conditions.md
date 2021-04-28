@@ -22,7 +22,7 @@ The `condition` configuration has 3 options:
 
 Let's see some examples.
 
-## `service_started`
+# Using `service_started`
 ```
 # docker-compose.yml
 version: "3"
@@ -58,7 +58,7 @@ services:
     image: node
 ```
 
-## `service_healthy`
+# Using `service_healthy`
 ```
 # docker-compose.yml
 version: "3"
@@ -83,7 +83,7 @@ One problem with this condition is that you need to make sure your required serv
 
 Alternatively, if the dependant service has `restart: always` or `restart: on-failure` set and the dependant application exits or fails when the requred service is not in a good state, nothing of value has been lost. The `restart` configurations will restart the dependant service (based on the configuration), allowing the service to effectively wait until all of it's requirements are met.
 
-## `service_completed_successfully`
+# Usings `service_completed_successfully`
 ```
 # docker-compose.yml
 version: "3"
