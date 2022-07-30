@@ -1,0 +1,3 @@
+I think the [_Dishonored_ series](https://en.wikipedia.org/wiki/Dishonored_(series)) has got to be one of my favorite video game series to date.
+
+I got the first game in 2013, about a year after it came out. I didn't have a great computer at the time, but damn did I enjoy it. I was able to run around, jump through the air, backstab and fight my way out of just about everything I could want. I completed the game in about two days in high chaos -- I killed and 

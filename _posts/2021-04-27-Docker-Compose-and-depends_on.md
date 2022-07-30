@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Docker Compose and `depends_on` -- fixing documentation
+title: Docker Compose and depends_on -- fixing documentation
 tags: docker
 ---
 

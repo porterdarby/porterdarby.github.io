@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Docker Compose and `condition`
+title: Docker Compose and condition
 tags: docker
 ---
 
