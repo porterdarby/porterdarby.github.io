@@ -4,7 +4,7 @@ title: Magnetic Bed part 2
 tags: 3dprinting
 ---
 
-So I recently [attempted to use a magnetic bed](2022-07-23%20Ender%203%20v2%20with%20a%20Magnetic%20Bed.md) on my Ender 3 v2. Spoiler alert, it didn't work so great. The print bed had some real issues when I was initially using it, mostly adhesion. Because of that, I switch back to the stock glass-plus bed that was originally included in the kit.
+So I recently [attempted to use a magnetic bed](2022-07-23-Ender-3-v2-with-a-Magnetic-Bed.md) on my Ender 3 v2. Spoiler alert, it didn't work so great. The print bed had some real issues when I was initially using it, mostly adhesion. Because of that, I switch back to the stock glass-plus bed that was originally included in the kit.
 
 I was recently able to update my printer with a little more "oomph" -- I got a [CR Touch](https://store.creality.com/products/cr-touch-auto-leveling-sensor-kit) kit. I thought that it would be a useful tool to have at my disposal, especially since I didn't want to spend like 20 minutes at least once a week re-leveling my printer because I had to move it/make an adjustment.
 
